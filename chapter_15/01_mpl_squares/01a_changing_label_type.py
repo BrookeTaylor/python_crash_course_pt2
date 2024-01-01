@@ -1,10 +1,10 @@
 """
 
-  Title: Plotting a Simple Line Graph  
+  Title: Changing the Label Type and Line Thickness  
   Author: Eric Matthes
   Date: 12/29/2023
-  Description: "Let's plot a simple line graph using Matplotlib and then customize 
-  it to create more informative data visualization."
+  Description: "We'll use a few of the available customizations to improve this 
+  plot's readability. Let's start by adding a title and labeling the axes:"
 
 """
 

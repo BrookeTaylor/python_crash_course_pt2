@@ -1,10 +1,12 @@
 """
 
-  Title: Plotting a Simple Line Graph  
+  Title: Correcting the Plot  
   Author: Eric Matthes
   Date: 12/29/2023
-  Description: "Let's plot a simple line graph using Matplotlib and then customize 
-  it to create more informative data visualization."
+  Description: "When you give plot() a single sequence of numbers, it assumes the 
+  first data point corresponds to an x-value of 0, but our first point corresponds 
+  to an x-value of 1. We can override the default behavior by giving plot() both 
+  the input and output values used to calculate the squares:"
 
 """
 

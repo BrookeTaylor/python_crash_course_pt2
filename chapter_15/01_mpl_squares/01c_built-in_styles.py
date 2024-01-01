@@ -1,6 +1,6 @@
 """
 
-  Title: Plotting a Simple Line Graph  
+  Title: Using Built-in Styles  
   Author: Eric Matthes
   Date: 12/29/2023
   Description: "Let's plot a simple line graph using Matplotlib and then customize 
